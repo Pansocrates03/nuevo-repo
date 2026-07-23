@@ -1,1 +1,2 @@
-print("Archivo conflictos")
+def func1():
+    print("conflictooo")
